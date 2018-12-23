@@ -1,0 +1,11 @@
+H:\Subversion\adventofcode2018\trunk\Day3\bin\Debug\netcoreapp2.1\Day3.deps.json
+H:\Subversion\adventofcode2018\trunk\Day3\bin\Debug\netcoreapp2.1\Day3.runtimeconfig.json
+H:\Subversion\adventofcode2018\trunk\Day3\bin\Debug\netcoreapp2.1\Day3.runtimeconfig.dev.json
+H:\Subversion\adventofcode2018\trunk\Day3\bin\Debug\netcoreapp2.1\Day3.dll
+H:\Subversion\adventofcode2018\trunk\Day3\bin\Debug\netcoreapp2.1\Day3.pdb
+H:\Subversion\adventofcode2018\trunk\Day3\obj\Debug\netcoreapp2.1\Day3.csprojAssemblyReference.cache
+H:\Subversion\adventofcode2018\trunk\Day3\obj\Debug\netcoreapp2.1\Day3.csproj.CoreCompileInputs.cache
+H:\Subversion\adventofcode2018\trunk\Day3\obj\Debug\netcoreapp2.1\Day3.AssemblyInfoInputs.cache
+H:\Subversion\adventofcode2018\trunk\Day3\obj\Debug\netcoreapp2.1\Day3.AssemblyInfo.cs
+H:\Subversion\adventofcode2018\trunk\Day3\obj\Debug\netcoreapp2.1\Day3.dll
+H:\Subversion\adventofcode2018\trunk\Day3\obj\Debug\netcoreapp2.1\Day3.pdb

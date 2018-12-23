@@ -1,2 +1,2 @@
 # adventofcode2018
-Excersizes
+Messing around with https://adventofcode.com/2018/
