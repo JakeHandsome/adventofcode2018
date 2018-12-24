@@ -1,0 +1,10 @@
+C:\Subversion\trunk\Day5\bin\Debug\netcoreapp2.1\Day5.deps.json
+C:\Subversion\trunk\Day5\bin\Debug\netcoreapp2.1\Day5.runtimeconfig.json
+C:\Subversion\trunk\Day5\bin\Debug\netcoreapp2.1\Day5.runtimeconfig.dev.json
+C:\Subversion\trunk\Day5\bin\Debug\netcoreapp2.1\Day5.dll
+C:\Subversion\trunk\Day5\bin\Debug\netcoreapp2.1\Day5.pdb
+C:\Subversion\trunk\Day5\obj\Debug\netcoreapp2.1\Day5.csproj.CoreCompileInputs.cache
+C:\Subversion\trunk\Day5\obj\Debug\netcoreapp2.1\Day5.AssemblyInfoInputs.cache
+C:\Subversion\trunk\Day5\obj\Debug\netcoreapp2.1\Day5.AssemblyInfo.cs
+C:\Subversion\trunk\Day5\obj\Debug\netcoreapp2.1\Day5.dll
+C:\Subversion\trunk\Day5\obj\Debug\netcoreapp2.1\Day5.pdb
